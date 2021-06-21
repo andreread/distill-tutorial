@@ -8,3 +8,22 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+My name is **Andre Arroyo-Cottier**. I have recently graduated White Oaks Secondary School, next year I will be studying mechanical engineering at the University of Waterloo. 
+
+## About the Project
+
+*Covid-19 Breakdown*
+
+This project analyses Covid-19 data from Covid Act Now to determine the effectiveness of vaccines in the United States of America.
+
+## Goals
+* Determine if vaccinations are directly related with the reduction of Covid-19 cases in the USA
+* Calculate how many vaccines are necessary to reduce the effect of Covid-19 on the USA
+  + This may be challenging to prove only using graphs, formulas may be necessary
+
+
+"This is data science"
+~ Preceptor
+
+[Kane's Free High School Data Science Bootcamp](https://bootcamp.davidkane.info/)

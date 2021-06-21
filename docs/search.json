@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-20T13:07:12-04:00"
+      "contents": "\r\nAbout Me\r\nMy name is Andre Arroyo-Cottier. I have recently graduated White Oaks Secondary School, next year I will be studying mechanical engineering at the University of Waterloo.\r\nAbout the Project\r\nCovid-19 Breakdown\r\nThis project analyses Covid-19 data from Covid Act Now to determine the effectiveness of vaccines in the United States of America.\r\nGoals\r\nDetermine if vaccinations are directly related with the reduction of Covid-19 cases in the USA\r\nCalculate how many vaccines are necessary to reduce the effect of Covid-19 on the USA\r\nThis may be challenging to prove only using graphs, formulas may be necessary\r\n\r\n“This is data science”\r\nPreceptor\r\n\r\nKane’s Free High School Data Science Bootcamp\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-21T10:29:54-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "This is where I will describe my final project\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-20T13:07:16-04:00"
+      "last_modified": "2021-06-21T10:29:57-04:00"
     }
   ],
   "collections": []
